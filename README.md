@@ -24,7 +24,7 @@
 ```swift
 struct Baljinder: MobileDeveloper {
     let name        = "Baljinder Singh"
-    let role        = ["iOS Developer", "Flutter Developer", "React Native Developer"]
+    let role        = ["iOS Developer", "Flutter Developer"]
     let location    = "India"
     let languages   = ["Swift", "Dart", "Objective-C"]
     let frameworks  = ["SwiftUI", "UIKit", "Flutter", "GetX", "Riverpod"]
