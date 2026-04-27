@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:1a1f3a,100:0d47a1&height=200&section=header&text=Baljinder%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=iOS%20Developer%20%20%7C%20%20Flutter%20Developer%20%20%7C%20%20React%20Native%20Developer&descAlignY=58&descSize=17&descColor=90CAF9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:1a1f3a,100:0d47a1&height=200&section=header&text=Baljinder%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=iOS%20Developer%20%20%7C%20%20Flutter%20Developer%20%20%7C%20&descAlignY=58&descSize=17&descColor=90CAF9" width="100%"/>
 
 <br/>
 
