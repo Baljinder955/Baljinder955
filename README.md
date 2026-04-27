@@ -87,7 +87,7 @@ struct Baljinder: MobileDeveloper {
 A location-aware social networking app that connects users with people physically nearby — on a commute, at an event, or exploring a new city. Chat and discover in real time based purely on your surroundings.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
@@ -109,7 +109,8 @@ A location-aware social networking app that connects users with people physicall
 
 A full-featured social media app for scrolling feeds, chatting with friends, and discovering new connections. Built for engagement and designed to grow communities organically.
 
-![iOS](https://img.shields.io/badge/iOS_Native_Bridge-000000?style=flat-square&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-00ACC1?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -138,7 +139,7 @@ A full-featured social media app for scrolling feeds, chatting with friends, and
 A satellite-based communication and micro-app platform deployed on cruise ships and remote maritime vessels. Provides crew with reliable connectivity in the most isolated environments on Earth, and powers a suite of embedded micro-apps for onboard operations. Contributed to both the React Native core and the iOS layer, handling native-to-web bridging via WebView.
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![iOS](https://img.shields.io/badge/iOS_Native_Bridge-000000?style=flat-square&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![WebView](https://img.shields.io/badge/WebView_Bridge-FF6B35?style=flat-square&logo=googlechrome&logoColor=white)
 ![Satellite](https://img.shields.io/badge/Satellite_Comm-1A237E?style=flat-square&logoColor=white)
@@ -205,7 +206,7 @@ Crew welfare, communication and HR
 
 Browse and order farm-fresh vegetables and fruits delivered straight to your door from local cultivators.
 
-![iOS](https://img.shields.io/badge/iOS_Native_Bridge-000000?style=flat-square&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
@@ -226,7 +227,7 @@ Browse and order farm-fresh vegetables and fruits delivered straight to your doo
 
 Empowers delivery drivers with smart routing, order management, and live earnings tracking to maximise daily efficiency.
 
-![iOS](https://img.shields.io/badge/iOS_Native_Bridge-000000?style=flat-square&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
@@ -247,7 +248,7 @@ Empowers delivery drivers with smart routing, order management, and live earning
 
 Enables farmers and vendors to list, manage, and sell their fresh produce directly to local consumers with ease.
 
-![iOS](https://img.shields.io/badge/iOS_Native_Bridge-000000?style=flat-square&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
@@ -275,7 +276,7 @@ Enables farmers and vendors to list, manage, and sell their fresh produce direct
 
 A real-time translation app powered by Google ML Kit — breaking language barriers instantly. On-device and offline-capable, with lightning-fast inference and support for 50+ languages. No internet required after model download.
 
-![iOS](https://img.shields.io/badge/iOS_Native_Bridge-000000?style=flat-square&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
 ![On-Device AI](https://img.shields.io/badge/On--Device_AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -302,7 +303,7 @@ A real-time translation app powered by Google ML Kit — breaking language barri
 
 A unified transport booking platform for seamless bus and train ticket reservations, with real-time availability, seat selection, and digital e-ticket generation.
 
-![iOS](https://img.shields.io/badge/iOS_Native_Bridge-000000?style=flat-square&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Payment Gateway](https://img.shields.io/badge/Multi_Payment_Gateway-6772E5?style=flat-square&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -324,7 +325,7 @@ A unified transport booking platform for seamless bus and train ticket reservati
 
 A ride-hailing app connecting passengers with nearby drivers, featuring real-time tracking, upfront fare estimation, and a smooth end-to-end booking experience.
 
-![iOS](https://img.shields.io/badge/iOS_Native_Bridge-000000?style=flat-square&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -348,7 +349,7 @@ A ride-hailing app connecting passengers with nearby drivers, featuring real-tim
 
 A passenger-facing ride-hailing app for booking boda-bodas and cabs. Simple, fast, and reliable booking with live driver tracking and multiple payment options.
 
-![iOS](https://img.shields.io/badge/iOS_Native_Bridge-000000?style=flat-square&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -370,7 +371,7 @@ A passenger-facing ride-hailing app for booking boda-bodas and cabs. Simple, fas
 
 The driver-side companion to Union Boda. Lets drivers accept incoming ride requests, manage active trips, and track daily earnings in real time to maximise income.
 
-![iOS](https://img.shields.io/badge/iOS_Native_Bridge-000000?style=flat-square&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -419,7 +420,7 @@ A smooth, highly customisable rotary dial widget for Flutter. Supports iOS and A
 An AI-powered companion iOS app built natively with Swift and SwiftUI, delivering a smooth and responsive conversational experience.
 
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Baljinder955/AlGirlfriend)
-![iOS](https://img.shields.io/badge/iOS_Native_Bridge-000000?style=flat-square&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=flat-square&logo=swift&logoColor=white)
 
