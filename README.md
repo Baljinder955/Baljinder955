@@ -165,7 +165,7 @@ Ship operations and crew management
 
 `Vikand`
 
-Onboard health and medical services
+Onboard health services
 
 </td>
 <td width="25%" align="center">
@@ -180,6 +180,14 @@ Port logistics and journey planning
 `Crew Matters`
 
 Crew welfare, communication and HR
+
+</td>
+
+<td width="25%" align="center">
+
+`SeaMedix`
+
+Onboard Medical Services
 
 </td>
 </tr>
