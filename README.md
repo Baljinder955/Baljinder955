@@ -1,13 +1,19 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Baljinder%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=iOS%20%7C%20Flutter%20%7C%20React%20Native%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:1a1f3a,100:0d47a1&height=200&section=header&text=Baljinder%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=iOS%20Developer%20%20%7C%20%20Flutter%20Developer%20%20%7C%20%20React%20Native%20Developer&descAlignY=58&descSize=17&descColor=90CAF9" width="100%"/>
 
-</div>
+<br/>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=64B5F6&center=true&vCenter=true&width=700&lines=Crafting+native+iOS+experiences+with+Swift+%26+SwiftUI;Building+cross-platform+apps+with+Flutter+%26+Dart;Shipping+production-ready+mobile+apps+across+platforms;Social+Media+%7C+AgriTech+%7C+SatCom+%7C+Transport+%7C+AI)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Building+native+iOS+experiences+%F0%9F%8D%8E;Crafting+cross-platform+Flutter+apps+%F0%9F%A6%8B;Shipping+clean%2C+production-ready+code+%F0%9F%9A%80;Social+%7C+AgriTech+%7C+SatCom+%7C+Transport+%7C+AI)](https://git.io/typing-svg)
+<br/>
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React%20Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![ML%20Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
 
 </div>
 
@@ -16,42 +22,52 @@
 ## About Me
 
 ```swift
-let baljinder = Developer(
-    name:       "Baljinder Singh",
-    role:       ["iOS Developer", "Flutter Developer"],
-    location:   "India 🇮🇳",
-    languages:  ["Swift", "Dart", "SwiftUI", "Objective-C"],
-    frameworks: ["SwiftUI", "UIKit", "Flutter", "GetX", "RiverPod"],
-    passion:    "Turning ideas into beautiful, performant mobile apps",
-    domains:    ["Social Media", "AgriTech", "SatCom", "Transport", "AI/ML", "E-Commerce"]
-)
+struct Baljinder: MobileDeveloper {
+    let name        = "Baljinder Singh"
+    let role        = ["iOS Developer", "Flutter Developer", "React Native Developer"]
+    let location    = "India"
+    let languages   = ["Swift", "Dart", "Objective-C", "JavaScript", "C++"]
+    let frameworks  = ["SwiftUI", "UIKit", "Flutter", "GetX", "Riverpod", "React Native"]
+    let backend     = ["Firebase", "Firestore", "REST APIs", "Google ML Kit"]
+    let tools       = ["Xcode", "Git", "GitHub Actions", "Fastlane", "TestFlight"]
+    let domains     = ["Social Media", "AgriTech", "SatCom", "Transport", "AI/ML"]
+    let passion     = "Turning ideas into beautiful, performant mobile products"
+}
 ```
 
 ---
 
 ## Tech Stack
 
-### iOS & Apple Ecosystem
+**iOS & Apple Platform**
+
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
-### Flutter & Cross-Platform
+**Flutter & Cross-Platform**
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![GetX](https://img.shields.io/badge/GetX-8B0000?style=for-the-badge&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-00ACC1?style=for-the-badge&logo=flutter&logoColor=white)
 
-### Backend & Services
+**Backend & Services**
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
-![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Firestore](https://img.shields.io/badge/Cloud_Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
+![Google ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Tools & DevOps
+**Tools & DevOps**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black)
 
 ---
 
@@ -59,40 +75,112 @@ let baljinder = Developer(
 
 ---
 
-### Social & Communication
+### SOCIAL & COMMUNICATION
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<br/>
 
-#### In-Transit
-**Hyperlocal Social Media · Flutter**
+**IN-TRANSIT**
 
-A location-based social networking app that connects users with people physically nearby — on a commute, at an event, or exploring a city. Chat and discover in real time based on your surroundings.
+`Hyperlocal Social Media` &nbsp;|&nbsp; `Flutter`
+
+---
+
+A location-aware social networking app that connects users with people physically nearby — on a commute, at an event, or exploring a new city. Chat and discover in real time based purely on your surroundings.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![GeoLocation](https://img.shields.io/badge/GeoLocation-34A853?style=flat-square&logo=googlemaps&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 
 - Real-time nearby user discovery via geolocation
-- Live proximity-based chat
-- Interactive map showing active nearby users
+- Live proximity-based chat system
+- Interactive map showing active users in range
 
+<br/>
 </td>
 <td width="50%" valign="top">
+<br/>
 
-#### UinOne
-**Social Media Platform · Flutter**
+**UINONE**
 
-A full-featured social media app for scrolling feeds, chatting with friends, and discovering new connections. Built for engagement and designed for community growth.
+`Social Media Platform` &nbsp;|&nbsp; `Flutter`
+
+---
+
+A full-featured social media app for scrolling feeds, chatting with friends, and discovering new connections. Built for engagement and designed to grow communities organically.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-00BCD4?style=flat-square&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-00ACC1?style=flat-square&logo=flutter&logoColor=white)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 - Infinite scroll feed with real-time updates
-- One-on-one & group chat
-- Friend discovery & follow system
+- One-on-one and group chat
+- Friend discovery and follow system
+
+<br/>
+</td>
+</tr>
+</table>
+
+---
+
+### ENTERPRISE & SATELLITE COMMUNICATION
+
+<br/>
+
+**FRONTM — Satellite Communication Platform**
+
+`React Native` &nbsp;|&nbsp; `iOS Native Bridge` &nbsp;|&nbsp; `WebView`
+
+---
+
+A satellite-based communication and micro-app platform deployed on cruise ships and remote maritime vessels. Provides crew with reliable connectivity in the most isolated environments on Earth, and powers a suite of embedded micro-apps for onboard operations. Contributed to both the React Native core and the iOS layer, handling native-to-web bridging via WebView.
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![iOS](https://img.shields.io/badge/iOS_Native_Bridge-000000?style=flat-square&logo=apple&logoColor=white)
+![WebView](https://img.shields.io/badge/WebView_Bridge-FF6B35?style=flat-square&logo=googlechrome&logoColor=white)
+![Satellite](https://img.shields.io/badge/Satellite_Comm-1A237E?style=flat-square&logoColor=white)
+
+- Satellite-based calling and messaging at sea
+- iOS native bridge via WebView handling native to web interactions
+- Embedded micro-app ecosystem inside the platform shell
+
+<br/>
+
+**Micro-Apps Delivered within FrontM:**
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+`OnShip`
+
+Ship operations and crew management
+
+</td>
+<td width="25%" align="center">
+
+`Vikand`
+
+Onboard health and medical services
+
+</td>
+<td width="25%" align="center">
+
+`JP`
+
+Port logistics and journey planning
+
+</td>
+<td width="25%" align="center">
+
+`Crew Matters`
+
+Crew welfare, communication and HR
 
 </td>
 </tr>
@@ -100,169 +188,234 @@ A full-featured social media app for scrolling feeds, chatting with friends, and
 
 ---
 
-### Enterprise & Satellite Communication
+### AGRITECH — SEMILLA ECOSYSTEM
 
-#### FrontM — Satellite Communication Platform
-**React Native · iOS WebView Bridge**
+> A three-sided marketplace connecting consumers, delivery drivers, and farmers/vendors for farm-fresh produce delivery — built as three separate Flutter applications sharing a unified backend.
 
-A satellite-based communication and micro-app platform deployed on cruise ships and remote maritime vessels. Provides crew with reliable connectivity in the most isolated environments on Earth — and powers a suite of embedded micro-apps for onboard operations.
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![iOS](https://img.shields.io/badge/iOS_Native_Bridge-000000?style=flat-square&logo=apple&logoColor=white)
-![WebView](https://img.shields.io/badge/WebView_Bridge-FF6B35?style=flat-square&logo=googlechrome&logoColor=white)
-![SatCom](https://img.shields.io/badge/Satellite_Comm-1A237E?style=flat-square&logoColor=white)
-
-- Satellite-based calling & messaging at sea
-- iOS native bridge via WebView to handle native↔web interactions
-- Embedded micro-app ecosystem within the platform shell
-
-**Micro-Apps Delivered:**
-
-| Micro-App | Description |
-|-----------|-------------|
-| **OnShip** | Ship operations & crew management |
-| **Vikand** | Onboard health & medical services for crew |
-| **JP** | Port logistics & journey planning |
-| **Crew Matters** | Crew welfare, communication & HR |
-
----
-
-### AgriTech — Semilla Ecosystem
-
-> A three-sided marketplace connecting **consumers**, **delivery drivers**, and **farmers/vendors** for farm-fresh produce delivery.
+<br/>
 
 <table>
 <tr>
 <td width="33%" valign="top">
+<br/>
 
-#### Semilla
-**Consumer App · Flutter**
+**SEMILLA**
+
+`Consumer App` &nbsp;|&nbsp; `Flutter`
+
+---
 
 Browse and order farm-fresh vegetables and fruits delivered straight to your door from local cultivators.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 - Browse fresh produce catalogue
 - Real-time order tracking
-- Seamless checkout & payments
+- Seamless checkout and payments
 
+<br/>
 </td>
 <td width="33%" valign="top">
+<br/>
 
-#### Semilla Driver
-**Delivery Partner App · Flutter**
+**SEMILLA DRIVER**
 
-Empowers delivery drivers with smart routing, order management, and live earnings tracking to maximise efficiency.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-- Optimised delivery routing
-- Pickup & drop-off management
-- Real-time earnings dashboard
-
-</td>
-<td width="33%" valign="top">
-
-#### Semilla Cultivator
-**Vendor / Farmer App · Flutter**
-
-Enables farmers and vendors to list, manage, and sell their fresh produce directly to local consumers with ease.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-- Product listing & inventory management
-- Sales analytics & reports
-- Order fulfilment workflow
-
-</td>
-</tr>
-</table>
+`Delivery Partner App` &nbsp;|&nbsp; `Flutter`
 
 ---
 
-### 🤖 AI / On-Device ML
-
-#### Live Translation
-**Real-Time Language Translation · Flutter · ML Kit**
-
-A real-time translation app powered by Google ML Kit — breaking language barriers instantly. On-device, offline-capable, and lightning-fast with support for 50+ languages.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
-![On-Device AI](https://img.shields.io/badge/On--Device_AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-- Live speech & text translation using ML Kit
-- On-device inference — works fully offline
-- Supports 50+ languages with instant switching
-
----
-
-### Transport & Mobility
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### Kacyber
-**Bus & Train Ticket Booking · Flutter**
-
-A unified transport booking app for seamless bus and train ticket reservations with real-time availability, seat selection, and e-ticket generation.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Payments](https://img.shields.io/badge/Payment_Gateway-6772E5?style=flat-square&logo=stripe&logoColor=white)
-
-- Bus & train search and booking
-- Seat selection & e-ticket generation
-- Journey reminders & live status updates
-
-</td>
-<td width="50%" valign="top">
-
-#### United Cabs
-**Cab Booking Platform · Flutter**
-
-A ride-hailing app connecting passengers with nearby drivers — featuring real-time tracking, upfront fare estimation, and a smooth end-to-end booking experience.
+Empowers delivery drivers with smart routing, order management, and live earnings tracking to maximise daily efficiency.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 
-- Real-time driver tracking on map
-- Fare estimation before booking
-- Driver rating & ride history
+- Optimised delivery routing
+- Pickup and drop-off management
+- Real-time earnings dashboard
 
+<br/>
+</td>
+<td width="33%" valign="top">
+<br/>
+
+**SEMILLA CULTIVATOR**
+
+`Vendor / Farmer App` &nbsp;|&nbsp; `Flutter`
+
+---
+
+Enables farmers and vendors to list, manage, and sell their fresh produce directly to local consumers with ease.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+- Product listing and inventory management
+- Sales analytics and reports
+- Order fulfilment workflow
+
+<br/>
 </td>
 </tr>
 </table>
 
 ---
 
-### Open Source
+### AI / ON-DEVICE ML
+
+<br/>
+
+**LIVE TRANSLATION**
+
+`Real-Time Language Translation` &nbsp;|&nbsp; `Flutter` &nbsp;|&nbsp; `Google ML Kit`
+
+---
+
+A real-time translation app powered by Google ML Kit — breaking language barriers instantly. On-device and offline-capable, with lightning-fast inference and support for 50+ languages. No internet required after model download.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
+![On-Device AI](https://img.shields.io/badge/On--Device_AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+- Live speech and text translation via Google ML Kit
+- Fully on-device inference — works offline
+- Supports 50+ languages with instant switching
+
+---
+
+### TRANSPORT & MOBILITY
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<br/>
 
-#### rotary_dial
-**Flutter Package · Dart**
+**KACYBER**
 
-A smooth, highly customisable rotary dial widget for Flutter — supports iOS and Android with buttery animations and full gesture control.
+`Bus & Train Ticket Booking` &nbsp;|&nbsp; `Flutter`
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/Baljinder955/rotary_dial)
+---
+
+A unified transport booking platform for seamless bus and train ticket reservations, with real-time availability, seat selection, and digital e-ticket generation.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Payment Gateway](https://img.shields.io/badge/Multi_Payment_Gateway-6772E5?style=flat-square&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+- Bus and train search with live availability
+- Seat selection and e-ticket generation
+- Journey reminders and live status updates
+
+<br/>
+</td>
+<td width="50%" valign="top">
+<br/>
+
+**UNITED CABS**
+
+`Cab Booking Platform` &nbsp;|&nbsp; `Flutter`
+
+---
+
+A ride-hailing app connecting passengers with nearby drivers, featuring real-time tracking, upfront fare estimation, and a smooth end-to-end booking experience.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+- Real-time driver tracking on map
+- Upfront fare estimation before booking
+- Driver rating and ride history
+
+<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<br/>
+
+**UNION BODA**
+
+`Ride Booking App` &nbsp;|&nbsp; `Flutter`
+
+---
+
+A passenger-facing ride-hailing app for booking boda-bodas and cabs. Simple, fast, and reliable booking with live driver tracking and multiple payment options.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+- Instant ride booking for boda and cab
+- Live driver location tracking on map
+- Multiple payment options with fare preview
+
+<br/>
+</td>
+<td width="50%" valign="top">
+<br/>
+
+**UNION DRIVER**
+
+`Driver Earnings App` &nbsp;|&nbsp; `Flutter`
+
+---
+
+The driver-side companion to Union Boda. Lets drivers accept incoming ride requests, manage active trips, and track daily earnings in real time to maximise income.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+- Real-time ride request notifications
+- Turn-by-turn navigation to pickup and drop
+- Daily and weekly earnings summary
+
+<br/>
+</td>
+</tr>
+</table>
+
+---
+
+### OPEN SOURCE
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<br/>
+
+**ROTARY DIAL**
+
+`Flutter Package` &nbsp;|&nbsp; `Dart`
+
+---
+
+A smooth, highly customisable rotary dial widget for Flutter. Supports iOS and Android with fluid animations, full gesture control, and a simple integration API.
+
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Baljinder955/rotary_dial)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
+<br/>
 </td>
 <td width="50%" valign="top">
+<br/>
 
-#### AlGirlfriend
-**iOS App · Swift**
+**ALGIRLFRIEND**
 
-An AI-powered companion iOS app built natively with Swift and SwiftUI for a smooth, responsive user experience.
+`iOS App` &nbsp;|&nbsp; `Swift`
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/Baljinder955/AlGirlfriend)
+---
+
+An AI-powered companion iOS app built natively with Swift and SwiftUI, delivering a smooth and responsive conversational experience.
+
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Baljinder955/AlGirlfriend)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=flat-square&logo=swift&logoColor=white)
 
+<br/>
 </td>
 </tr>
 </table>
@@ -273,14 +426,14 @@ An AI-powered companion iOS app built natively with Swift and SwiftUI for a smoo
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Baljinder955&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baljinder955&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Baljinder955&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=64B5F6&icon_color=64B5F6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baljinder955&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64B5F6"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Baljinder955&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Baljinder955&theme=tokyonight&hide_border=true&background=0D1117&ring=64B5F6&fire=F05138&currStreakLabel=64B5F6)](https://git.io/streak-stats)
 
 </div>
 
@@ -296,35 +449,36 @@ An AI-powered companion iOS app built natively with Swift and SwiftUI for a smoo
 
 ---
 
-## 📱 Domains I've Shipped In
+## Domains Shipped
 
 ```
-  Social & Hyperlocal   →  In-Transit · UinOne
-  SatCom & Enterprise   →  FrontM · OnShip · Vikand · JP · Crew Matters
-  AgriTech Marketplace  →  Semilla Consumer · Driver · Cultivator
-  AI / On-Device ML     →  Live Translation (Google ML Kit)
-  Transport & Mobility  →  Kacyber (Bus & Train) · United Cabs
-  Open Source           →  rotary_dial · AlGirlfriend
+  Social & Hyperlocal   ──  In-Transit  ·  UinOne
+  SatCom & Enterprise   ──  FrontM  ·  OnShip  ·  Vikand  ·  JP  ·  Crew Matters
+  AgriTech Marketplace  ──  Semilla  ·  Semilla Driver  ·  Semilla Cultivator
+  AI / On-Device ML     ──  Live Translation (Google ML Kit)
+  Transport & Mobility  ──  Kacyber  ·  United Cabs  ·  Union Boda  ·  Union Driver
+  Open Source           ──  rotary_dial  ·  AlGirlfriend
 ```
 
 ---
 
-## Connect With Me
+## Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Baljinder955-181717?style=for-the-badge&logo=github)](https://github.com/Baljinder955)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Baljinder955-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Baljinder955)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-Baljinder955-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/Baljinder955)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baljinder955/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indersandhu955@gmail.com)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Baljinder955&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Baljinder955&color=0d47a1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:0A0F1E&height=120&section=footer" width="100%"/>
