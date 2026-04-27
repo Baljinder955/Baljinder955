@@ -157,28 +157,28 @@ A satellite-based communication and micro-app platform deployed on cruise ships 
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="20%" align="center">
 
 `OnShip`
 
 Ship operations and crew management
 
 </td>
-<td width="25%" align="center">
+<td width="20%" align="center">
 
 `Vikand`
 
 Onboard health services
 
 </td>
-<td width="25%" align="center">
+<td width="20%" align="center">
 
 `JP`
 
 Port logistics and journey planning
 
 </td>
-<td width="25%" align="center">
+<td width="20%" align="center">
 
 `Crew Matters`
 
@@ -186,7 +186,7 @@ Crew welfare, communication and HR
 
 </td>
 
-<td width="25%" align="center">
+<td width="20%" align="center">
 
 `SeaMedix`
 
