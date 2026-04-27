@@ -208,7 +208,7 @@ Onboard Medical Services
 
 **SEMILLA**
 
-`Consumer App` &nbsp;|&nbsp; `Flutter`
+`Consumer App` &nbsp;|&nbsp; `Swift iOS`
 
 ---
 
@@ -229,7 +229,7 @@ Browse and order farm-fresh vegetables and fruits delivered straight to your doo
 
 **SEMILLA DRIVER**
 
-`Delivery Partner App` &nbsp;|&nbsp; `Flutter`
+`Delivery Partner App` &nbsp;|&nbsp; `Swift iOS`
 
 ---
 
@@ -250,7 +250,7 @@ Empowers delivery drivers with smart routing, order management, and live earning
 
 **SEMILLA CULTIVATOR**
 
-`Vendor / Farmer App` &nbsp;|&nbsp; `Flutter`
+`Vendor / Farmer App` &nbsp;|&nbsp; `Swift iOS`
 
 ---
 
@@ -278,7 +278,7 @@ Enables farmers and vendors to list, manage, and sell their fresh produce direct
 
 **LIVE TRANSLATION**
 
-`Real-Time Language Translation` &nbsp;|&nbsp; `Flutter` &nbsp;|&nbsp; `Google ML Kit`
+`Real-Time Language Translation` &nbsp;|&nbsp; `Swift iOS` &nbsp;|&nbsp; `Google ML Kit`
 
 ---
 
@@ -305,7 +305,7 @@ A real-time translation app powered by Google ML Kit — breaking language barri
 
 **KACYBER**
 
-`Bus & Train Ticket Booking` &nbsp;|&nbsp; `Flutter`
+`Bus & Train Ticket Booking` &nbsp;|&nbsp; `Swift iOS`
 
 ---
 
@@ -327,7 +327,7 @@ A unified transport booking platform for seamless bus and train ticket reservati
 
 **UNITED CABS**
 
-`Cab Booking Platform` &nbsp;|&nbsp; `Flutter`
+`Cab Booking Platform` &nbsp;|&nbsp; `Swift iOS`
 
 ---
 
@@ -351,7 +351,7 @@ A ride-hailing app connecting passengers with nearby drivers, featuring real-tim
 
 **UNION BODA**
 
-`Ride Booking App` &nbsp;|&nbsp; `Flutter`
+`Ride Booking App` &nbsp;|&nbsp; `Swift iOS`
 
 ---
 
@@ -373,7 +373,7 @@ A passenger-facing ride-hailing app for booking boda-bodas and cabs. Simple, fas
 
 **UNION DRIVER**
 
-`Driver Earnings App` &nbsp;|&nbsp; `Flutter`
+`Driver Earnings App` &nbsp;|&nbsp; `Swift iOS`
 
 ---
 
