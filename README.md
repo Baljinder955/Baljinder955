@@ -7,9 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=64B5F6&center=true&vCenter=true&width=700&lines=Crafting+native+iOS+experiences+with+Swift+%26+SwiftUI;Building+cross-platform+apps+with+Flutter+%26+Dart;Shipping+production-ready+mobile+apps+across+platforms;Social+Media+%7C+AgriTech+%7C+SatCom+%7C+Transport+%7C+AI)](https://git.io/typing-svg)
 
 <br/>
-
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![iOS](https://img.shields.io/badge/Apple-F05138?style=flat-square&logo=apple&logoColor=white)
+c![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![ML%20Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
