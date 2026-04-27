@@ -103,7 +103,7 @@ A location-aware social networking app that connects users with people physicall
 
 **UINONE**
 
-`Social Media Platform` &nbsp;|&nbsp; `Flutter`
+`Social Media Platform` &nbsp;|&nbsp; `Swift iOS`
 
 ---
 
