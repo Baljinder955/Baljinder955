@@ -26,10 +26,10 @@ struct Baljinder: MobileDeveloper {
     let name        = "Baljinder Singh"
     let role        = ["iOS Developer", "Flutter Developer", "React Native Developer"]
     let location    = "India"
-    let languages   = ["Swift", "Dart", "Objective-C", "JavaScript", "C++"]
-    let frameworks  = ["SwiftUI", "UIKit", "Flutter", "GetX", "Riverpod", "React Native"]
+    let languages   = ["Swift", "Dart", "Objective-C"]
+    let frameworks  = ["SwiftUI", "UIKit", "Flutter", "GetX", "Riverpod"]
     let backend     = ["Firebase", "Firestore", "REST APIs", "Google ML Kit"]
-    let tools       = ["Xcode", "Git", "GitHub Actions", "Fastlane", "TestFlight"]
+    let tools       = ["Xcode", "Git", "Visual Studio", "Antigravity", "TestFlight"]
     let domains     = ["Social Media", "AgriTech", "SatCom", "Transport", "AI/ML"]
     let passion     = "Turning ideas into beautiful, performant mobile products"
 }
@@ -51,7 +51,6 @@ struct Baljinder: MobileDeveloper {
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![GetX](https://img.shields.io/badge/GetX-8B0000?style=for-the-badge&logo=flutter&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-00ACC1?style=for-the-badge&logo=flutter&logoColor=white)
 
@@ -65,9 +64,6 @@ struct Baljinder: MobileDeveloper {
 **Tools & DevOps**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black)
 
 ---
 
@@ -112,7 +108,7 @@ A location-aware social networking app that connects users with people physicall
 
 A full-featured social media app for scrolling feeds, chatting with friends, and discovering new connections. Built for engagement and designed to grow communities organically.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![iOS](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=apple&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-00ACC1?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -207,7 +203,7 @@ Crew welfare, communication and HR
 
 Browse and order farm-fresh vegetables and fruits delivered straight to your door from local cultivators.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![iOS](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=apple&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 - Browse fresh produce catalogue
@@ -227,7 +223,7 @@ Browse and order farm-fresh vegetables and fruits delivered straight to your doo
 
 Empowers delivery drivers with smart routing, order management, and live earnings tracking to maximise daily efficiency.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![iOS](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=apple&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 
 - Optimised delivery routing
@@ -247,7 +243,7 @@ Empowers delivery drivers with smart routing, order management, and live earning
 
 Enables farmers and vendors to list, manage, and sell their fresh produce directly to local consumers with ease.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![iOS](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=apple&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 - Product listing and inventory management
@@ -273,7 +269,7 @@ Enables farmers and vendors to list, manage, and sell their fresh produce direct
 
 A real-time translation app powered by Google ML Kit — breaking language barriers instantly. On-device and offline-capable, with lightning-fast inference and support for 50+ languages. No internet required after model download.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![iOS](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=apple&logoColor=white)
 ![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
 ![On-Device AI](https://img.shields.io/badge/On--Device_AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -299,7 +295,7 @@ A real-time translation app powered by Google ML Kit — breaking language barri
 
 A unified transport booking platform for seamless bus and train ticket reservations, with real-time availability, seat selection, and digital e-ticket generation.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![iOS](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=apple&logoColor=white)
 ![Payment Gateway](https://img.shields.io/badge/Multi_Payment_Gateway-6772E5?style=flat-square&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
@@ -320,7 +316,7 @@ A unified transport booking platform for seamless bus and train ticket reservati
 
 A ride-hailing app connecting passengers with nearby drivers, featuring real-time tracking, upfront fare estimation, and a smooth end-to-end booking experience.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![iOS](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=apple&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
@@ -343,7 +339,7 @@ A ride-hailing app connecting passengers with nearby drivers, featuring real-tim
 
 A passenger-facing ride-hailing app for booking boda-bodas and cabs. Simple, fast, and reliable booking with live driver tracking and multiple payment options.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![iOS](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=apple&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
@@ -364,7 +360,7 @@ A passenger-facing ride-hailing app for booking boda-bodas and cabs. Simple, fas
 
 The driver-side companion to Union Boda. Lets drivers accept incoming ride requests, manage active trips, and track daily earnings in real time to maximise income.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![iOS](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=apple&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
