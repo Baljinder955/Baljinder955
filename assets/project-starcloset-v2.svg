@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+<title id="title">Native iOS</title><desc id="desc">UinOne · Union passenger and driver apps · Kacyber Go · Akbar Academy · OnShip</desc>
+<defs>
+ <linearGradient id="wine-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10070C"/><stop offset=".56" stop-color="#190B12"/><stop offset="1" stop-color="#451126"/></linearGradient>
+ <linearGradient id="wine-line"><stop offset="0" stop-color="#701A3D"/><stop offset=".5" stop-color="#C77B9B"/><stop offset="1" stop-color="#E5B5C7"/></linearGradient>
+ <pattern id="tech-grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#E5B5C7" stroke-opacity=".07"/></pattern>
+ <filter id="wine-glow"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="260" rx="14" fill="url(#wine-bg)"/><rect width="1200" height="260" rx="14" fill="url(#tech-grid)"/>
+<path d="M34 0V260M1166 0V260" stroke="#C77B9B" stroke-opacity=".25"/>
+<circle cx="1040" cy="128" r="74" fill="none" stroke="#C77B9B" stroke-opacity=".28"><animate attributeName="r" values="68;82;68" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="1040" cy="128" r="51" fill="none" stroke="#E5B5C7" stroke-opacity=".45" stroke-dasharray="3 9"><animateTransform attributeName="transform" type="rotate" from="0 1040 128" to="360 1040 128" dur="32s" repeatCount="indefinite"/></circle>
+<path d="M975 128H1105" stroke="url(#wine-line)" stroke-width="2" filter="url(#wine-glow)"><animate attributeName="stroke-dasharray" values="0 140;140 0;0 140" dur="5s" repeatCount="indefinite"/></path>
+<text x="54" y="52" fill="#C77B9B" font-family="monospace" font-size="12" letter-spacing="3">BALJINDER SINGH / PROFILE</text>
+<text x="54" y="108" fill="#F8F0F3" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700">Native iOS</text>
+<text x="54" y="149" fill="#E5B5C7" font-family="Arial,Helvetica,sans-serif" font-size="18">Swift · SwiftUI · UIKit</text>
+<text x="54" y="198" fill="#F8F0F3" fill-opacity=".78" font-family="monospace" font-size="13">UinOne · Union passenger and driver apps · Kacyber Go · Akbar Academy · OnShip</text>
+<path d="M54 224H760" stroke="url(#wine-line)" stroke-width="2" stroke-linecap="round"><animate attributeName="stroke-dasharray" values="0 706;706 0" dur="7s" repeatCount="indefinite"/></path>
+</svg>
