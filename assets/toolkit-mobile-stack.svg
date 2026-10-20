@@ -1,1 +1,145 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#190B12"/><stop offset="1" stop-color="#451126"/></linearGradient><linearGradient id="line"><stop stop-color="#701A3D"/><stop offset="1" stop-color="#C77B9B"/></linearGradient></defs><rect width="1200" height="260" rx="24" fill="url(#bg)"/><rect x="2" y="2" width="1196" height="256" rx="22" fill="none" stroke="#701A3D" stroke-width="3"/><text x="42" y="52" fill="#E5B5C7" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="3">MOBILE ENGINEERING TOOLKIT</text><g font-family="Arial,sans-serif" font-size="17" text-anchor="middle" fill="#F8F0F3"><g><rect x="38" y="78" width="166" height="54" rx="13" fill="#2A101C" stroke="url(#line)"/><text x="121" y="111">Swift · SwiftUI</text></g><g><rect x="222" y="78" width="166" height="54" rx="13" fill="#2A101C" stroke="url(#line)"/><text x="305" y="111">Dart · Flutter</text></g><g><rect x="406" y="78" width="166" height="54" rx="13" fill="#2A101C" stroke="url(#line)"/><text x="489" y="111">UIKit · iOS</text></g><g><rect x="590" y="78" width="166" height="54" rx="13" fill="#2A101C" stroke="url(#line)"/><text x="673" y="111">MVVM · MVC</text></g><g><rect x="774" y="78" width="166" height="54" rx="13" fill="#2A101C" stroke="url(#line)"/><text x="857" y="111">REST · JWT</text></g><g><rect x="958" y="78" width="204" height="54" rx="13" fill="#2A101C" stroke="url(#line)"/><text x="1060" y="111">Microservices</text></g></g><g font-family="Arial,sans-serif" font-size="15" text-anchor="middle" fill="#D8BAC7"><text x="600" y="174">VIPER · PostgreSQL · Hive · GetX · Riverpod · NoSQL</text><text x="600" y="205">Git · GitHub · Postman · DBMS · OOP · Google ML Kit</text><text x="600" y="237" fill="#C77B9B" font-size="11" letter-spacing="2">DESIGN • BUILD • SHIP</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1720" height="900" viewBox="0 0 1720 900" role="img" aria-labelledby="title desc">
+<title id="title">Baljinder Singh — developer toolkit</title>
+<desc id="desc">Dark burgundy and rose portfolio toolkit showing Swift, SwiftUI, Dart, AI and machine learning learning, iOS and Flutter, VIPER, REST APIs, microservices, JWT authentication, MVVM, MVC, PostgreSQL, Hive, GetX, NoSQL, Git, GitHub, Postman, DBMS and OOP.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#0b1015"/><stop offset="1" stop-color="#0b0d11"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#180910"/><stop offset=".5" stop-color="#351020"/><stop offset="1" stop-color="#11080d"/></linearGradient>
+  <linearGradient id="roseLine"><stop stop-color="#c77b9b" stop-opacity=".25"/><stop offset=".48" stop-color="#f8eaf0"/><stop offset=".68" stop-color="#9d315b"/><stop offset="1" stop-color="#c77b9b" stop-opacity=".2"/></linearGradient>
+  <radialGradient id="roseGlow"><stop stop-color="#b33e70" stop-opacity=".44"/><stop offset="1" stop-color="#6e1839" stop-opacity="0"/></radialGradient>
+  <radialGradient id="spark"><stop stop-color="#fff8fb"/><stop offset=".35" stop-color="#f3c6d8" stop-opacity=".92"/><stop offset="1" stop-color="#d35c8a" stop-opacity="0"/></radialGradient>
+  <linearGradient id="cardFill" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#210b14"/><stop offset="1" stop-color="#160910"/></linearGradient>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    .serif{font-family:Georgia,'Times New Roman',serif}
+    .eyebrow{font-size:16px;letter-spacing:3px;font-weight:600;fill:#c77b9b}
+    .headline{font-size:57px;fill:#f8f0f3;letter-spacing:-1.2px}
+    .cardTitle{font-size:17px;letter-spacing:2.2px;fill:#d38aa8;font-weight:600}
+    .large{font-size:42px;fill:#f8f0f3;letter-spacing:-1px}
+    .medium{font-size:34px;fill:#f8f0f3;letter-spacing:-.7px}
+    .small{font-size:22px;fill:#bba8b1}
+    .micro{font-size:16px;letter-spacing:1.8px;fill:#d9b9c7}
+    .card{fill:url(#cardFill);stroke:#9b4567;stroke-opacity:.36;stroke-width:1.5}
+    .entry{opacity:0;animation:fadeUp .8s cubic-bezier(.16,1,.3,1) forwards}
+    .a1{animation-delay:.04s}.a2{animation-delay:.14s}.a3{animation-delay:.24s}.a4{animation-delay:.34s}.a5{animation-delay:.44s}.a6{animation-delay:.54s}
+    .trace{fill:none;stroke:url(#roseLine);stroke-width:2.1;stroke-dasharray:120 720;stroke-linecap:round;animation:trace 7.5s linear infinite}
+    .orbit{fill:none;stroke:#d36b96;stroke-opacity:.52;stroke-width:1.5}
+    .sparkle{animation:pulse 2.5s ease-in-out infinite}
+    @keyframes fadeUp{from{opacity:0;transform:translateY(9px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes trace{to{stroke-dashoffset:-840}}
+    @keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+    @media(prefers-reduced-motion:reduce){.entry{opacity:1;animation:none}.trace,.sparkle{animation:none}}
+  </style>
+</defs>
+<rect width="1720" height="900" fill="url(#bg)"/>
+<!-- Header -->
+<text class="mono eyebrow" x="120" y="49">04 TOOLKIT</text>
+<text class="serif headline" x="116" y="116">The tools I <tspan fill="#e6b3c8" font-style="italic">reach for.</tspan></text>
+<text class="mono" x="1135" y="49" font-size="15" letter-spacing="2.7" fill="#bca8b1">IOS · FLUTTER · BACKEND · ARCHITECTURE</text>
+<path d="M119 147 H1600" stroke="url(#roseLine)" stroke-width="1.5"/>
+<circle class="sparkle" cx="850" cy="147" r="13" fill="url(#spark)"/>
+<!-- Outer frame -->
+<rect x="44" y="188" width="1638" height="674" rx="27" fill="url(#panel)" stroke="#8f3b5c" stroke-opacity=".38" stroke-width="1.5"/>
+<ellipse cx="865" cy="522" rx="690" ry="350" fill="url(#roseGlow)"/>
+<!-- Grid separators -->
+<path d="M615 218 V846 M1140 218 V846 M71 540 H1657" stroke="#a64c70" stroke-opacity=".36" stroke-width="1.3"/>
+<circle class="sparkle" cx="1103" cy="540" r="13" fill="url(#spark)"/>
+<g fill="#10070c" stroke="#e5b5c7" stroke-width="1.5"><rect x="607" y="532" width="16" height="16" transform="rotate(45 615 540)"/><rect x="1132" y="532" width="16" height="16" transform="rotate(45 1140 540)"/></g>
+
+<!-- 01 Languages -->
+<g class="entry a1" transform="translate(72 223)">
+  <rect class="card" width="514" height="276" rx="22"/><rect class="trace" width="514" height="276" rx="22"/>
+  <path d="M1 135 V23 Q1 1 23 1 H79" fill="none" stroke="#f8edf2" stroke-width="2.2" stroke-linecap="round"/>
+  <text class="mono cardTitle" x="34" y="46">01 LANGUAGES</text>
+  <text class="serif large" x="34" y="111">Swift · SwiftUI</text>
+  <text class="serif large" x="34" y="158">Dart</text>
+  <!-- code tile -->
+  <g transform="translate(367 68)" stroke="#d88aa9" stroke-width="1.5">
+    <path d="M0 26 L58 0 L112 26 L55 55 Z" fill="#57172e" fill-opacity=".55" stroke-opacity=".35"/>
+    <path d="M0 26 V113 L55 143 V55 Z" fill="#381020" fill-opacity=".8"/>
+    <path d="M55 55 L112 26 V112 L55 143 Z" fill="#57172e" fill-opacity=".65"/>
+    <path d="M29 65 L14 78 L29 91 M65 65 L80 78 L65 91 M55 61 L43 96" fill="none" stroke="#f3c6d8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="112" cy="26" r="4" fill="#e5b5c7"/>
+  </g>
+  <text class="mono micro" x="34" y="251">SWIFT · SWIFTUI · DART</text>
+</g>
+
+<!-- 02 AI / ML -->
+<g class="entry a2" transform="translate(633 223)">
+  <rect class="card" width="489" height="276" rx="22"/><rect class="trace" style="animation-delay:-2s" width="489" height="276" rx="22"/>
+  <path d="M20 1 H132" fill="none" stroke="#f8edf2" stroke-width="2.2" stroke-linecap="round"/>
+  <text class="mono cardTitle" x="34" y="46">02 AI · ML</text>
+  <text class="serif large" x="34" y="111">Learning</text>
+  <text class="serif medium" x="34" y="158">AI &amp; Machine Learning</text>
+  <text class="mono micro" x="34" y="251">EXPLORING · BUILDING · LEARNING</text>
+  <!-- stylized neural brain -->
+  <g transform="translate(330 64)">
+    <ellipse class="orbit" cx="65" cy="68" rx="99" ry="43" transform="rotate(-23 65 68)"/>
+    <ellipse class="orbit" cx="65" cy="68" rx="92" ry="35" transform="rotate(43 65 68)"/>
+    <path d="M33 56 Q30 32 49 29 Q59 12 75 29 Q99 25 102 47 Q119 57 104 76 Q102 96 83 97 Q68 111 53 96 Q32 99 30 79 Q17 69 33 56Z" fill="#b64e78" stroke="#e6a0ba" stroke-width="2"/>
+    <path d="M65 30 V96 M49 35 Q38 48 53 58 Q38 69 48 84 M79 35 Q93 49 77 58 Q94 71 82 87 M34 57 Q49 53 54 64 M101 55 Q86 53 77 64" fill="none" stroke="#f5c4d7" stroke-opacity=".8" stroke-width="2"/>
+    <circle cx="-20" cy="38" r="6" fill="#d36b96"/><circle cx="151" cy="23" r="6" fill="#e5b5c7"/><circle cx="122" cy="127" r="6" fill="#d36b96"/>
+  </g>
+</g>
+
+<!-- 03 Mobile -->
+<g class="entry a3" transform="translate(1167 223)">
+  <rect class="card" width="489" height="276" rx="22"/><rect class="trace" style="animation-delay:-4s" width="489" height="276" rx="22"/>
+  <path d="M1 72 V23 Q1 1 23 1 H102" fill="none" stroke="#f8edf2" stroke-width="2.2" stroke-linecap="round"/>
+  <text class="mono cardTitle" x="32" y="46">03 MOBILE DEVELOPER</text>
+  <text class="serif large" x="32" y="111">iOS &amp; Flutter</text>
+  <text class="mono micro" x="32" y="251">IOS · SWIFTUI · FLUTTER · DART</text>
+  <g transform="translate(326 38)">
+    <ellipse cx="83" cy="124" rx="102" ry="22" fill="none" stroke="#9d315b" stroke-width="2" stroke-opacity=".7"/>
+    <g transform="rotate(-9 45 91)"><rect x="5" y="5" width="73" height="154" rx="15" fill="#05080c" stroke="#d5c6ce" stroke-width="2"/><rect x="11" y="13" width="61" height="137" rx="10" fill="#111923"/><rect x="28" y="9" width="28" height="4" rx="2" fill="#77717b"/><path d="M42 67 C29 50 15 64 26 78 L42 95 L58 78 C69 64 55 50 42 67Z" fill="#f5f0f3"/></g>
+    <g transform="rotate(7 105 92)"><rect x="70" y="12" width="73" height="154" rx="15" fill="#05080c" stroke="#d5c6ce" stroke-width="2"/><rect x="76" y="20" width="61" height="137" rx="10" fill="#111923"/><rect x="93" y="16" width="28" height="4" rx="2" fill="#77717b"/><path d="M91 76 L115 53 L138 53 L114 77 L138 101 L115 101 Z" fill="#42c5f5"/></g>
+  </g>
+</g>
+
+<!-- 04 Backend -->
+<g class="entry a4" transform="translate(72 565)">
+  <rect class="card" width="514" height="263" rx="22"/><rect class="trace" style="animation-delay:-1s" width="514" height="263" rx="22"/>
+  <path d="M1 71 V23 Q1 1 23 1 H72" fill="none" stroke="#f8edf2" stroke-width="2.2" stroke-linecap="round"/>
+  <text class="mono cardTitle" x="34" y="44">04 BACKEND &amp; API’S</text>
+  <text class="serif medium" x="34" y="101">VIPER &amp; REST APIs</text>
+  <text class="serif medium" x="34" y="143">Microservices</text>
+  <text class="mono micro" x="34" y="198">JWT AUTH · API INTEGRATION</text>
+  <g transform="translate(382 28)" stroke="#e5b5c7" stroke-width="1.6">
+    <path d="M13 0 Q0 -5 -5 9 Q-20 8 -18 24 Q-17 37 0 37 H43 Q59 37 56 21 Q54 8 41 9 Q34 -8 20 0Z" fill="#a33c65"/>
+    <rect x="-2" y="54" width="51" height="17" rx="4" fill="#451126"/><rect x="3" y="78" width="41" height="17" rx="4" fill="#451126"/><rect x="8" y="102" width="31" height="17" rx="4" fill="#451126"/>
+    <path d="M23 37 V54 M23 71 V78 M23 95 V102" fill="none"/>
+    <path d="M57 75 L73 83 L69 106 L56 116 L43 106 L39 83Z" fill="#190b12"/><path d="M49 91 L55 97 L64 86" fill="none" stroke-width="2.8"/>
+  </g>
+</g>
+
+<!-- 05 Data -->
+<g class="entry a5" transform="translate(633 565)">
+  <rect class="card" width="489" height="263" rx="22"/><rect class="trace" style="animation-delay:-3s" width="489" height="263" rx="22"/>
+  <text class="mono cardTitle" x="34" y="44">05 DATA &amp; ARCHITECTURE</text>
+  <text class="serif medium" x="34" y="101">MVVM · MVC</text>
+  <text class="serif medium" x="34" y="143">PostgreSQL · Hive</text>
+  <text class="mono micro" x="34" y="198">GETX · NOSQL</text>
+  <g transform="translate(355 52)" stroke="#e5b5c7" stroke-width="1.6">
+    <path d="M0 12 C0 -2 83 -2 83 12 V112 C83 130 0 130 0 112Z" fill="#451126"/>
+    <ellipse cx="41.5" cy="12" rx="41.5" ry="12" fill="#9d315b"/>
+    <path d="M0 43 C0 60 83 60 83 43 M0 76 C0 93 83 93 83 76" fill="none"/>
+    <ellipse cx="41.5" cy="112" rx="41.5" ry="12" fill="#351020"/>
+    <g transform="translate(60 112)"><rect x="0" y="0" width="39" height="33" rx="5" fill="#190b12"/><path d="M19 0 V-13 M19 -13 H-1 M19 -13 H39" fill="none"/><circle cx="-1" cy="-13" r="3.5" fill="#e5b5c7"/><circle cx="39" cy="-13" r="3.5" fill="#e5b5c7"/><circle cx="19" cy="16" r="4" fill="#e5b5c7"/></g>
+  </g>
+</g>
+
+<!-- 06 Tools -->
+<g class="entry a6" transform="translate(1167 565)">
+  <rect class="card" width="489" height="263" rx="22"/><rect class="trace" style="animation-delay:-5s" width="489" height="263" rx="22"/>
+  <path d="M1 213 V240 Q1 262 23 262 H144" fill="none" stroke="#f8edf2" stroke-width="2.2" stroke-linecap="round"/>
+  <text class="mono cardTitle" x="32" y="44">06 TOOLS &amp; FUNDAMENTALS</text>
+  <text class="serif medium" x="32" y="101">Git · GitHub</text>
+  <text class="serif medium" x="32" y="143">Postman</text>
+  <text class="mono micro" x="32" y="198">DBMS · OOP</text>
+  <g transform="translate(329 30)" stroke="#e5b5c7" stroke-width="1.5">
+    <path d="M0 22 L29 5 L58 22 L29 40Z" fill="#451126"/><path d="M0 22 V67 L29 84 V40Z" fill="#190b12"/><path d="M29 40 L58 22 V67 L29 84Z" fill="#351020"/>
+    <path d="M69 31 L98 14 L127 31 L98 48Z" fill="#451126"/><path d="M69 31 V76 L98 93 V48Z" fill="#190b12"/><path d="M98 48 L127 31 V76 L98 93Z" fill="#351020"/>
+    <path d="M16 38 L29 26 L42 38 L29 51Z" fill="#e5b5c7"/><path d="M85 48 L98 36 L111 48 L98 61Z" fill="#c77b9b"/>
+    <circle cx="29" cy="22" r="5" fill="#f8f0f3"/><circle cx="98" cy="31" r="5" fill="#f8f0f3"/>
+  </g>
+</g>
+</svg>
