@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-labelledby="title desc">
+  <title id="title">Animated GitHub contribution snake</title>
+  <desc id="desc">A decorative animated snake moving across a GitHub-style contribution grid. This standalone version is not generated from account contribution data.</desc>
+  <defs>
+    <linearGradient id="snake" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff8a9b"/>
+      <stop offset="0.55" stop-color="#c72f52"/>
+      <stop offset="1" stop-color="#7b1733"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="19" height="19" patternUnits="userSpaceOnUse">
+      <rect x="1" y="1" width="13" height="13" rx="3" fill="#29232a"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="150" rx="14" fill="#100d12"/>
+  <text x="28" y="28" fill="#f5eaf0" font-family="system-ui, sans-serif" font-size="13" font-weight="600" letter-spacing="1.5">CONTRIBUTION SNAKE</text>
+  <text x="872" y="28" fill="#a998a3" font-family="system-ui, sans-serif" font-size="10" text-anchor="end">DECORATIVE SVG</text>
+  <rect x="27" y="39" width="846" height="91" fill="url(#grid)"/>
+  <g opacity=".92">
+    <rect x="47" y="59" width="13" height="13" rx="3" fill="#5d1830"/><rect x="85" y="78" width="13" height="13" rx="3" fill="#7d1e3d"/><rect x="123" y="97" width="13" height="13" rx="3" fill="#a62649"/>
+    <rect x="180" y="59" width="13" height="13" rx="3" fill="#7d1e3d"/><rect x="218" y="97" width="13" height="13" rx="3" fill="#c22d53"/><rect x="275" y="78" width="13" height="13" rx="3" fill="#5d1830"/>
+    <rect x="332" y="97" width="13" height="13" rx="3" fill="#a62649"/><rect x="389" y="59" width="13" height="13" rx="3" fill="#7d1e3d"/><rect x="427" y="78" width="13" height="13" rx="3" fill="#c22d53"/>
+    <rect x="484" y="97" width="13" height="13" rx="3" fill="#7d1e3d"/><rect x="541" y="59" width="13" height="13" rx="3" fill="#a62649"/><rect x="579" y="78" width="13" height="13" rx="3" fill="#5d1830"/>
+    <rect x="636" y="97" width="13" height="13" rx="3" fill="#c22d53"/><rect x="693" y="59" width="13" height="13" rx="3" fill="#7d1e3d"/><rect x="750" y="78" width="13" height="13" rx="3" fill="#a62649"/><rect x="807" y="97" width="13" height="13" rx="3" fill="#5d1830"/>
+  </g>
+  <path d="M38 88 H114 V50 H190 V88 H266 V107 H342 V69 H418 V50 H494 V88 H570 V107 H646 V69 H722 V50 H798 V88 H854" fill="none" stroke="#6e2339" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" opacity=".4"/>
+  <path d="M38 88 H114 V50 H190 V88 H266 V107 H342 V69 H418 V50 H494 V88 H570 V107 H646 V69 H722 V50 H798 V88 H854" fill="none" stroke="url(#snake)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="26 12" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" from="0" to="-152" dur="3.8s" repeatCount="indefinite"/>
+  </path>
+  <g transform="translate(854 88)" filter="url(#glow)">
+    <circle r="10" fill="#e85a78"/><circle cx="-3" cy="-2" r="1.5" fill="#fff3f6"/><circle cx="3" cy="-2" r="1.5" fill="#fff3f6"/><path d="M-2 3 Q0 5 2 3" fill="none" stroke="#fff3f6" stroke-width="1.2" stroke-linecap="round"/>
+    <animateTransform attributeName="transform" type="translate" values="854 88;846 88;854 88" dur="1.2s" repeatCount="indefinite"/>
+  </g>
+</svg>
