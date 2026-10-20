@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="t d">
+  <title id="t">In-Transit</title>
+  <desc id="d">Discover people nearby with a location-aware social experience.</desc>
+  <defs>
+    <linearGradient id="card02" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10070C"/>
+      <stop offset="62%" stop-color="#190B12"/>
+      <stop offset="100%" stop-color="#451126"/>
+    </linearGradient>
+    <linearGradient id="accent02" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#701A3D"/>
+      <stop offset="50%" stop-color="#C77B9B"/>
+      <stop offset="100%" stop-color="#E5B5C7"/>
+    </linearGradient>
+    <pattern id="grid02" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#E5B5C7" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="230" rx="16" fill="url(#card02)"/>
+  <rect width="1200" height="230" rx="16" fill="url(#grid02)"/>
+  <rect x="0" y="0" width="8" height="230" rx="4" fill="url(#accent02)"/>
+  <circle cx="1080" cy="115" r="74" fill="none" stroke="#C77B9B" stroke-opacity=".22"/>
+  <circle cx="1080" cy="115" r="55" fill="none" stroke="#E5B5C7" stroke-opacity=".25" stroke-dasharray="3 8"/>
+  <path d="M1037 115h86M1080 72v86" stroke="#C77B9B" stroke-opacity=".28"/>
+  <circle cx="1080" cy="115" r="9" fill="#C77B9B" fill-opacity=".8"/>
+  <text x="42" y="43" fill="#C77B9B" font-family="monospace" font-size="12" letter-spacing="3">SOCIAL / LOCATION-AWARE</text>
+  <text x="42" y="91" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">In-Transit</text>
+  <text x="42" y="127" fill="#E5B5C7" font-family="Arial, Helvetica, sans-serif" font-size="17">Discover people nearby with a location-aware social experience.</text>
+  <text x="42" y="176" fill="#F8F0F3" fill-opacity=".75" font-family="monospace" font-size="13" letter-spacing=".6">FLUTTER  /  DART  /  MAPS</text>
+  <path d="M42 198H620" stroke="url(#accent02)" stroke-width="2" stroke-linecap="round"/>
+</svg>
