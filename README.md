@@ -1,519 +1,151 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:1a1f3a,100:0d47a1&height=200&section=header&text=Baljinder%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=iOS%20Developer%20%20%7C%20%20Flutter%20Developer%20%20%&descAlignY=58&descSize=17&descColor=90CAF9" width="100%"/>
+<img src="assets/baljinder-identity-hero.svg" width="100%" alt="Baljinder Singh — iOS and Flutter Developer"/>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/Baljinder955"><img src="https://img.shields.io/badge/GitHub-Baljinder955-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="GitHub profile"></a>
+  <a href="https://www.linkedin.com/in/baljinder955/"><img src="https://img.shields.io/badge/LinkedIn-Baljinder%20Singh-701A3D?style=for-the-badge&labelColor=190B12&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn profile"></a>
+  <a href="mailto:indersandhu955@gmail.com"><img src="https://img.shields.io/badge/Email-indersandhu955%40gmail.com-701A3D?style=for-the-badge&labelColor=190B12&logo=gmail&logoColor=F8F0F3" alt="Email Baljinder"></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=64B5F6&center=true&vCenter=true&width=700&lines=Crafting+native+iOS+experiences+with+Swift+%26+SwiftUI;Building+cross-platform+apps+with+Flutter+%26+Dart;Shipping+production-ready+mobile+apps+across+platforms;Social+Media+%7C+AgriTech+%7C+SatCom+%7C+Transport+%7C+AI)](https://git.io/typing-svg)
-
-<br/>
-
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=flat-square&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![ML%20Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="assets/apps-marquee.svg" width="100%" alt="Scrolling icons of the apps I have published"/>
 
 </div>
 
----
+<img src="assets/title-about.svg" width="100%" alt="About — Hello, I'm Baljinder Singh"/>
+<img src="assets/about-cv.svg" width="100%" alt="Animated terminal introduction: iOS and Flutter developer in Mohali, India, 3.6+ years of experience at Netset Software Solutions, 9 App Store apps."/>
 
-## About Me
+**iOS & Flutter Developer** based in **Mohali, India**, with **3.6+ years** of experience building and maintaining production mobile apps for iOS and Android. I work with Swift, SwiftUI, UIKit, Flutter and Dart, and I'm comfortable across REST APIs, Firebase, state management, local persistence, offline-first architecture, location services, Bluetooth thermal printing, and App Store / Google Play releases.
 
-```swift
-struct Baljinder: MobileDeveloper {
-    let name        = "Baljinder Singh"
-    let role        = ["iOS Developer", "Flutter Developer"]
-    let location    = "India"
-    let languages   = ["Swift", "Dart", "Objective-C"]
-    let frameworks  = ["SwiftUI", "UIKit", "Flutter", "GetX", "Riverpod"]
-    let backend     = ["Firebase", "Firestore", "REST APIs", "Google ML Kit"]
-    let tools       = ["Xcode", "Git", "Visual Studio", "Antigravity", "TestFlight"]
-    let domains     = ["Social Media", "AgriTech", "SatCom", "Transport", "AI/ML"]
-    let passion     = "Turning ideas into beautiful, performant mobile products"
-}
-```
+My work spans **POS and restaurant management, transportation, social networking, logistics and business apps**, with a focus on clean architecture, reusable components, debugging, performance and reliable production releases.
 
----
+> 🔎 **Open to:** iOS Developer · Flutter Developer · Mobile Application Developer · iOS & Flutter Developer
 
-## Tech Stack
+## Journey
 
-**iOS & Apple Platform**
+<img src="assets/experience-timeline.svg" width="100%" alt="Career path at Netset Software Solutions: iOS Jr. Developer from March 2023, promoted to iOS Sr. Developer, now a hybrid iOS and Flutter developer"/>
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+### Netset Software Solutions, Mohali · *Mar 2023 – Present*
 
-**Flutter & Cross-Platform**
+Joined as an **iOS Jr. Developer**, was promoted to **iOS Sr. Developer**, and then grew into a **hybrid iOS & Flutter developer** after upgrading my Flutter skills.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-8B0000?style=for-the-badge&logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-00ACC1?style=for-the-badge&logo=flutter&logoColor=white)
+- Develop and maintain production apps with **Swift, SwiftUI, UIKit, Flutter and Dart** across iOS and Android.
+- Build responsive, reusable interfaces from product requirements and designs, following maintainable architecture patterns.
+- Integrate **RESTful APIs** for authentication, users, orders, payments, inventory, location, notifications and business workflows.
+- Implement **offline-first** functionality: local persistence, caching, queued operations and sync when connectivity returns.
+- Integrate **Firebase** (authentication, push notifications, analytics, cloud functionality) and **Google Maps / Geolocation** features.
+- Integrate **Bluetooth thermal printers** for restaurant POS, KOT and receipt workflows.
+- Work with **Hive** and **SwiftData** for reliable local data management.
+- Debug production issues across API failures, sync, state management, navigation, database operations, printing and performance.
+- Collaborate with backend developers, designers, QA and product teams from development to release; manage builds, signing, **TestFlight**, **App Store** and **Google Play** releases.
 
-**Backend & Services**
+## Selected work
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Cloud_Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
-![Google ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="assets/title-work.svg" width="100%" alt="Selected work — mobile products and real projects"/>
 
-**Tools & DevOps**
+### Flutter projects
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<a href="https://apps.apple.com/in/app/netset-pos/id6773668387"><img src="assets/card-netset-pos.svg" width="100%" alt="Netset POS — Flutter restaurant POS with offline-first orders, KOT and Bluetooth thermal printing"/></a>
 
----
+<p align="center">
+  <a href="https://apps.apple.com/in/app/netset-pos/id6773668387"><img src="https://img.shields.io/badge/App%20Store-Netset%20POS-701A3D?style=for-the-badge&labelColor=190B12&logo=apple&logoColor=F8F0F3" alt="Netset POS on the App Store"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.app.netsetposstaff&pli=1"><img src="https://img.shields.io/badge/Google%20Play-Netset%20POS-701A3D?style=for-the-badge&labelColor=190B12&logo=googleplay&logoColor=F8F0F3" alt="Netset POS on Google Play"></a>
+</p>
 
-## Projects
+<a href="https://apps.apple.com/in/app/netset-pos-admin/id6765671750"><img src="assets/card-netset-pos-admin.svg" width="100%" alt="Netset POS Admin — Flutter business administration app for restaurant owners and branch managers"/></a>
 
----
+<p align="center">
+  <a href="https://apps.apple.com/in/app/netset-pos-admin/id6765671750"><img src="https://img.shields.io/badge/App%20Store-Netset%20POS%20Admin-701A3D?style=for-the-badge&labelColor=190B12&logo=apple&logoColor=F8F0F3" alt="Netset POS Admin on the App Store"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.app.netsetpos"><img src="https://img.shields.io/badge/Google%20Play-Netset%20POS%20Admin-701A3D?style=for-the-badge&labelColor=190B12&logo=googleplay&logoColor=F8F0F3" alt="Netset POS Admin on Google Play"></a>
+</p>
 
-### SOCIAL & COMMUNICATION
+<a href="https://apps.apple.com/in/app/in-transit-meet-people-nearby/id6779575416"><img src="assets/card-in-transit.svg" width="100%" alt="In Transit — Flutter location-based social app"/></a>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<br/>
+<p align="center">
+  <a href="https://apps.apple.com/in/app/in-transit-meet-people-nearby/id6779575416"><img src="https://img.shields.io/badge/App%20Store-In%20Transit-701A3D?style=for-the-badge&labelColor=190B12&logo=apple&logoColor=F8F0F3" alt="In Transit on the App Store"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.app.intransit&hl=en_IN"><img src="https://img.shields.io/badge/Google%20Play-In%20Transit-701A3D?style=for-the-badge&labelColor=190B12&logo=googleplay&logoColor=F8F0F3" alt="In Transit on Google Play"></a>
+</p>
 
-**IN-TRANSIT**
+### Native iOS projects
 
-`Hyperlocal Social Media` &nbsp;|&nbsp; `Flutter`
+<a href="https://apps.apple.com/in/app/uinone/id6746144603"><img src="assets/card-uinone.svg" width="100%" alt="UinOne — social networking platform"/></a>
 
----
+<p align="center">
+  <a href="https://apps.apple.com/in/app/uinone/id6746144603"><img src="https://img.shields.io/badge/App%20Store-UinOne-701A3D?style=for-the-badge&labelColor=190B12&logo=apple&logoColor=F8F0F3" alt="UinOne on the App Store"></a>
+</p>
 
-A location-aware social networking app that connects users with people physically nearby — on a commute, at an event, or exploring a new city. Chat and discover in real time based purely on your surroundings.
+<a href="https://apps.apple.com/us/app/union-request-a-ride/id6739698569"><img src="assets/card-union.svg" width="100%" alt="Union — Request a Ride, ride booking app"/></a>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+<p align="center">
+  <a href="https://apps.apple.com/us/app/union-request-a-ride/id6739698569"><img src="https://img.shields.io/badge/App%20Store-Union%20Request%20a%20Ride-701A3D?style=for-the-badge&labelColor=190B12&logo=apple&logoColor=F8F0F3" alt="Union — Request a Ride on the App Store"></a>
+</p>
 
-- Real-time nearby user discovery via geolocation
-- Live proximity-based chat system
-- Interactive map showing active users in range
+<a href="https://apps.apple.com/us/app/union-driver-rider-captain/id6739698610"><img src="assets/card-union-driver.svg" width="100%" alt="Union — Driver, Rider and Captain transportation app"/></a>
 
-<br/>
-</td>
-<td width="50%" valign="top">
-<br/>
+<p align="center">
+  <a href="https://apps.apple.com/us/app/union-driver-rider-captain/id6739698610"><img src="https://img.shields.io/badge/App%20Store-Union%20Driver%20Rider%20and%20Captain-701A3D?style=for-the-badge&labelColor=190B12&logo=apple&logoColor=F8F0F3" alt="Union — Driver, Rider & Captain on the App Store"></a>
+</p>
 
-**UINONE**
+<a href="https://apps.apple.com/ug/app/kacyber-go/id1143469480"><img src="assets/card-kacyber-go.svg" width="100%" alt="KaCyber Go iOS app"/></a>
 
-`Social Media Platform` &nbsp;|&nbsp; `Swift iOS`
+<p align="center">
+  <a href="https://apps.apple.com/ug/app/kacyber-go/id1143469480"><img src="https://img.shields.io/badge/App%20Store-KaCyber%20Go-701A3D?style=for-the-badge&labelColor=190B12&logo=apple&logoColor=F8F0F3" alt="KaCyber Go on the App Store"></a>
+</p>
 
----
+<a href="https://apps.apple.com/us/app/akbar-academy/id1542520695"><img src="assets/card-akbar-academy.svg" width="100%" alt="Akbar Academy iOS app"/></a>
 
-A full-featured social media app for scrolling feeds, chatting with friends, and discovering new connections. Built for engagement and designed to grow communities organically.
+<p align="center">
+  <a href="https://apps.apple.com/us/app/akbar-academy/id1542520695"><img src="https://img.shields.io/badge/App%20Store-Akbar%20Academy-701A3D?style=for-the-badge&labelColor=190B12&logo=apple&logoColor=F8F0F3" alt="Akbar Academy on the App Store"></a>
+</p>
 
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-00ACC1?style=flat-square&logo=flutter&logoColor=white)
-![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<a href="https://apps.apple.com/gb/app/onship/id1491731188"><img src="assets/card-onship.svg" width="100%" alt="Onship logistics and delivery iOS app"/></a>
 
-- Infinite scroll feed with real-time updates
-- One-on-one and group chat
-- Friend discovery and follow system
+<p align="center">
+  <a href="https://apps.apple.com/gb/app/onship/id1491731188"><img src="https://img.shields.io/badge/App%20Store-Onship-701A3D?style=for-the-badge&labelColor=190B12&logo=apple&logoColor=F8F0F3" alt="Onship on the App Store"></a>
+</p>
 
-<br/>
-</td>
-</tr>
-</table>
+### watchOS & health
 
----
+- Built watchOS functionality with **HealthKit, WatchConnectivity, SwiftData** and workout/session APIs.
+- Implemented health monitoring workflows — heart rate, blood oxygen, steps and exercise — with iPhone ↔ Apple Watch communication.
+- Worked with background processing and scheduled tasks for app synchronization and data operations.
 
-### ENTERPRISE & SATELLITE COMMUNICATION
+<img src="assets/title-toolkit.svg" width="100%" alt="Toolkit — iOS, Flutter and backend integrations"/>
+<img src="assets/toolkit-cv.svg" width="100%" alt="Animated toolkit: Swift, SwiftUI, UIKit, Flutter, Dart, MVVM, Clean Architecture, GetX, GoRouter, Hive, REST APIs, Firebase, SwiftData, Core Data, HealthKit, Bluetooth printers, Xcode, TestFlight and more"/>
 
-<br/>
+## Open source
 
-**FRONTM — Satellite Communication Platform**
+<a href="https://github.com/Baljinder955/rotary_dial"><img src="assets/card-rotary-dial.svg" width="100%" alt="rotary_dial — Flutter rotary dial widget"/></a>
 
-`React Native` &nbsp;|&nbsp; `iOS Native Bridge` &nbsp;|&nbsp; `WebView`
+<p align="center">
+  <a href="https://github.com/Baljinder955/rotary_dial"><img src="https://img.shields.io/badge/GitHub-rotary__dial-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="rotary_dial on GitHub"></a>
+</p>
 
----
+<a href="https://github.com/Baljinder955/AIgirlfriend"><img src="assets/card-aigirlfriend.svg" width="100%" alt="AIgirlfriend — Swift project"/></a>
 
-A satellite-based communication and micro-app platform deployed on cruise ships and remote maritime vessels. Provides crew with reliable connectivity in the most isolated environments on Earth, and powers a suite of embedded micro-apps for onboard operations. Contributed to both the React Native core and the iOS layer, handling native-to-web bridging via WebView.
+<p align="center">
+  <a href="https://github.com/Baljinder955/AIgirlfriend"><img src="https://img.shields.io/badge/GitHub-AIgirlfriend-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="AIgirlfriend on GitHub"></a>
+</p>
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![WebView](https://img.shields.io/badge/WebView_Bridge-FF6B35?style=flat-square&logo=googlechrome&logoColor=white)
-![Satellite](https://img.shields.io/badge/Satellite_Comm-1A237E?style=flat-square&logoColor=white)
+<img src="assets/title-commits.svg" width="100%" alt="GitHub contribution activity"/>
 
-- Satellite-based calling and messaging at sea
-- iOS native bridge via WebView handling native to web interactions
-- Embedded micro-app ecosystem inside the platform shell
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Baljinder955&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=190B12&title_color=E5B5C7&text_color=B6A3AC&icon_color=C77B9B&custom_title=GitHub%20at%20a%20glance" width="48%" alt="GitHub statistics for Baljinder955"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baljinder955&layout=compact&hide_border=true&border_radius=16&bg_color=190B12&title_color=E5B5C7&text_color=B6A3AC" width="40%" alt="Languages detected in public repositories"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://ghchart.rshah.org/701A3D/Baljinder955" width="100%" alt="GitHub contribution heatmap for Baljinder955, generated from live contribution data"/>
+</p>
 
-**Micro-Apps Delivered within FrontM:**
+<sub>Heatmap and statistics come from third-party services using public GitHub data and may be cached or briefly unavailable. A contribution-snake workflow is included in <code>.github/workflows/snake.yml</code>.</sub>
 
-<table>
-<tr>
-<td width="20%" align="center">
+<img src="assets/title-connect.svg" width="100%" alt="Connect with Baljinder Singh"/>
 
-`OnShip`
+<p align="center">
+  <a href="https://www.linkedin.com/in/baljinder955/"><img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&labelColor=190B12&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn profile"/></a>
+  <a href="mailto:indersandhu955@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-701A3D?style=for-the-badge&labelColor=190B12&logo=gmail&logoColor=F8F0F3" alt="Email Baljinder"/></a>
+  <a href="https://github.com/Baljinder955"><img src="https://img.shields.io/badge/GitHub-Follow-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="GitHub profile"/></a>
+</p>
 
-Ship operations and crew management
-
-</td>
-<td width="20%" align="center">
-
-`Vikand`
-
-Onboard health services
-
-</td>
-<td width="20%" align="center">
-
-`JP`
-
-Port logistics and journey planning
-
-</td>
-<td width="20%" align="center">
-
-`Crew Matters`
-
-Crew welfare, communication and HR
-
-</td>
-
-<td width="20%" align="center">
-
-`SeaMedix`
-
-Onboard Medical Services
-
-</td>
-</tr>
-</table>
-
----
-
-### AGRITECH — SEMILLA ECOSYSTEM
-
-> A three-sided marketplace connecting consumers, delivery drivers, and farmers/vendors for farm-fresh produce delivery — built as three separate Flutter applications sharing a unified backend.
-
-<br/>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-<br/>
-
-**SEMILLA**
-
-`Consumer App` &nbsp;|&nbsp; `Swift iOS`
-
----
-
-Browse and order farm-fresh vegetables and fruits delivered straight to your door from local cultivators.
-
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-- Browse fresh produce catalogue
-- Real-time order tracking
-- Seamless checkout and payments
-
-<br/>
-</td>
-<td width="33%" valign="top">
-<br/>
-
-**SEMILLA DRIVER**
-
-`Delivery Partner App` &nbsp;|&nbsp; `Swift iOS`
-
----
-
-Empowers delivery drivers with smart routing, order management, and live earnings tracking to maximise daily efficiency.
-
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-
-- Optimised delivery routing
-- Pickup and drop-off management
-- Real-time earnings dashboard
-
-<br/>
-</td>
-<td width="33%" valign="top">
-<br/>
-
-**SEMILLA CULTIVATOR**
-
-`Vendor / Farmer App` &nbsp;|&nbsp; `Swift iOS`
-
----
-
-Enables farmers and vendors to list, manage, and sell their fresh produce directly to local consumers with ease.
-
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-
-
-- Product listing and inventory management
-- Sales analytics and reports
-- Order fulfilment workflow
-
-<br/>
-</td>
-</tr>
-</table>
-
----
-
-### AI / ON-DEVICE ML
-
-<br/>
-
-**LIVE TRANSLATION**
-
-`Real-Time Language Translation` &nbsp;|&nbsp; `Swift iOS` &nbsp;|&nbsp; `Google ML Kit`
-
----
-
-A real-time translation app powered by Google ML Kit — breaking language barriers instantly. On-device and offline-capable, with lightning-fast inference and support for 50+ languages. No internet required after model download.
-
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
-![On-Device AI](https://img.shields.io/badge/On--Device_AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-- Live speech and text translation via Google ML Kit
-- Fully on-device inference — works offline
-- Supports 50+ languages with instant switching
-
----
-
-### TRANSPORT & MOBILITY
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<br/>
-
-**KACYBER**
-
-`Bus & Train Ticket Booking` &nbsp;|&nbsp; `Swift iOS`
-
----
-
-A unified transport booking platform for seamless bus and train ticket reservations, with real-time availability, seat selection, and digital e-ticket generation.
-
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Payment Gateway](https://img.shields.io/badge/Multi_Payment_Gateway-6772E5?style=flat-square&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-- Bus and train search with live availability
-- Seat selection and e-ticket generation
-- Journey reminders and live status updates
-
-<br/>
-</td>
-<td width="50%" valign="top">
-<br/>
-
-**UNITED CABS**
-
-`Cab Booking Platform` &nbsp;|&nbsp; `Swift iOS`
-
----
-
-A ride-hailing app connecting passengers with nearby drivers, featuring real-time tracking, upfront fare estimation, and a smooth end-to-end booking experience.
-
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-- Real-time driver tracking on map
-- Upfront fare estimation before booking
-- Driver rating and ride history
-
-<br/>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<br/>
-
-**UNION BODA**
-
-`Ride Booking App` &nbsp;|&nbsp; `Swift iOS`
-
----
-
-A passenger-facing ride-hailing app for booking boda-bodas and cabs. Simple, fast, and reliable booking with live driver tracking and multiple payment options.
-
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-- Instant ride booking for boda and cab
-- Live driver location tracking on map
-- Multiple payment options with fare preview
-
-<br/>
-</td>
-<td width="50%" valign="top">
-<br/>
-
-**UNION DRIVER**
-
-`Driver Earnings App` &nbsp;|&nbsp; `Swift iOS`
-
----
-
-The driver-side companion to Union Boda. Lets drivers accept incoming ride requests, manage active trips, and track daily earnings in real time to maximise income.
-
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-- Real-time ride request notifications
-- Turn-by-turn navigation to pickup and drop
-- Daily and weekly earnings summary
-
-<br/>
-</td>
-</tr>
-</table>
-
----
-
-### OPEN SOURCE
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<br/>
-
-**ROTARY DIAL**
-
-`Flutter Package` &nbsp;|&nbsp; `Dart`
-
----
-
-A smooth, highly customisable rotary dial widget for Flutter. Supports iOS and Android with fluid animations, full gesture control, and a simple integration API.
-
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Baljinder955/rotary_dial)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-<br/>
-</td>
-<td width="50%" valign="top">
-<br/>
-
-**ALGIRLFRIEND**
-
-`iOS App` &nbsp;|&nbsp; `Swift`
-
----
-
-An AI-powered companion iOS app built natively with Swift and SwiftUI, delivering a smooth and responsive conversational experience.
-
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Baljinder955/AlGirlfriend)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=flat-square&logo=swift&logoColor=white)
-
-<br/>
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Baljinder955&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=64B5F6&icon_color=64B5F6&cache_seconds=86400"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baljinder955&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64B5F6&cache_seconds=86400"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baljinder955&theme=tokyonight" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Baljinder955&theme=tokyonight" height="160em"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Baljinder955&theme=tokyonight" height="160em"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Baljinder955&theme=tokyonight&utcOffset=5.5" height="160em"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Baljinder955&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## Domains Shipped
-
-```
-  Social & Hyperlocal   ──  In-Transit  ·  UinOne
-  SatCom & Enterprise   ──  FrontM  ·  OnShip  ·  Vikand  ·  JP  ·  Crew Matters
-  AgriTech Marketplace  ──  Semilla  ·  Semilla Driver  ·  Semilla Cultivator
-  AI / On-Device ML     ──  Live Translation (Google ML Kit)
-  Transport & Mobility  ──  Kacyber  ·  United Cabs  ·  Union Boda  ·  Union Driver
-  Open Source           ──  rotary_dial  ·  AlGirlfriend
-```
-
----
-
-## Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Baljinder955-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Baljinder955)
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-Baljinder955-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/Baljinder955)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baljinder955/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indersandhu955@gmail.com)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Baljinder955&color=0d47a1&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:0A0F1E&height=120&section=footer" width="100%"/>
+<a href="https://www.linkedin.com/in/baljinder955/"><img src="assets/baljinder-footer-min.svg" width="100%" alt="Baljinder Singh — Building mobile experiences people enjoy using"/></a>
