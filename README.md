@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/baljinder-identity-hero.svg" width="100%" alt="Baljinder Singh — iOS and Flutter Developer"/>
+<img src="assets/baljinder-hero-portrait.svg" width="100%" alt="Baljinder Singh — iOS and Flutter Developer"/>
 
 <p align="center">
   <a href="https://github.com/Baljinder955"><img src="https://img.shields.io/badge/GitHub-Baljinder955-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="GitHub profile"></a>
