@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="bsf-t">
+<title id="bsf-t">Baljinder Singh — building mobile experiences people enjoy using</title>
+<defs><linearGradient id="bsf-bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#10070C"/><stop offset=".5" stop-color="#451126"/><stop offset="1" stop-color="#10070C"/></linearGradient>
+<linearGradient id="bsf-ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#701A3D" stop-opacity="0"/><stop offset=".5" stop-color="#E5B5C7"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></linearGradient></defs>
+<rect width="1200" height="120" rx="18" fill="url(#bsf-bg)"/>
+<text x="600" y="58" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="26" font-style="italic" fill="#F8F0F3">Building mobile experiences people enjoy using.</text>
+<text x="600" y="86" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11" letter-spacing="4" fill="#C77B9B">BALJINDER SINGH · IOS · FLUTTER</text>
+<rect x="300" y="100" width="600" height="2" fill="url(#bsf-ln)"/>
+<circle cy="101" r="4" fill="#F8F0F3" opacity="0"><animate attributeName="cx" values="300;900" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.9;1" dur="5s" repeatCount="indefinite"/></circle>
+</svg>
