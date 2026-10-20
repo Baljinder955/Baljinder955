@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-labelledby="footerTitle">
+  <title id="footerTitle">Keep building — Baljinder Singh</title>
+  <defs>
+    <linearGradient id="bsFooterBg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#10070C"/>
+      <stop offset="55%" stop-color="#451126"/>
+      <stop offset="100%" stop-color="#190B12"/>
+    </linearGradient>
+    <linearGradient id="bsFooterLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#701A3D" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#E5B5C7"/>
+      <stop offset="100%" stop-color="#701A3D" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="110" rx="14" fill="url(#bsFooterBg)"/>
+  <path d="M48 27H1152" stroke="url(#bsFooterLine)" stroke-width="1.5">
+    <animate attributeName="stroke-dasharray" values="0 1104;1104 0;0 1104" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <text x="600" y="63" text-anchor="middle" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="4">KEEP BUILDING THINGS THAT MATTER</text>
+  <text x="600" y="86" text-anchor="middle" fill="#C77B9B" font-family="monospace" font-size="10" letter-spacing="2">BALJINDER SINGH  ·  MOBILE ENGINEERING</text>
+</svg>
