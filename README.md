@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/baljinder-hero-portrait.svg" width="100%" alt="Baljinder Singh — iOS and Flutter Developer"/>
+<a href="https://baljinder-portfolio-mu.vercel.app"><img src="assets/baljinder-hero-portrait.svg" width="100%" alt="Baljinder Singh — iOS and Flutter Developer. Click to open my portfolio."/></a>
+
+<p align="center">
+  <a href="https://baljinder-portfolio-mu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-baljinder--portfolio--mu.vercel.app-C77B9B?style=for-the-badge&labelColor=451126&logo=vercel&logoColor=F8F0F3" alt="Open my portfolio website"></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Baljinder955"><img src="https://img.shields.io/badge/GitHub-Baljinder955-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="GitHub profile"></a>
